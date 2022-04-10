@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoumik Nath</h1>
 <h3 align="center">Learning</h3>
 
-- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/ShoumikNath/Movie-Recommendation-System-with-Sentiment-Analysis-)
+- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/ShoumikNath/Movie-Recommendation-With-Sentiment-Analysis)
 
 - 🌱 I’m currently learning **Javascript**
 
